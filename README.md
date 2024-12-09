@@ -16,3 +16,7 @@ It will also create a "1.5_update_log.txt" file that will include changes made d
 It will also add a 1.5 version to your About.xml file to indicate it's compliance with rimworld 1.5
 
 If there are any issues, provide the results file for debugging, or, alternatively, the problems should be diagnosable by providing the update_xenotype_mod.py as well as the results zip file to ChatGPT if you have no experience with python.
+
+This script tool was created by me initially, but meticulously refined using ChatGPT 4o such that it is basically fully generated, tested, and verified by an AI such that it should be easily adjustable by ChatGPT or any AI that is refined at producing python code.
+
+It should work to update any Xenotype mod from 1.4 to 1.5
